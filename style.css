@@ -69,7 +69,11 @@ table {
 	padding: 20px;
 }
 
-.intro {
+#top h1 {
+	color: #ff0;
+}
+
+#top p {
 	color: red;
 	font-weight: bold;
 }
