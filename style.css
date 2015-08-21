@@ -111,3 +111,17 @@ p:first-child {
 	font-weight: bold;
 	font-size: 40px;
 }
+
+blockquote:before {
+	content: open-quote;
+}
+
+blockquote:after {
+	content: close-quote;
+}
+
+li:before {
+	content: "POW! ";
+	background: red;
+	color: #fc0;
+}
