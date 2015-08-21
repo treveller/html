@@ -125,3 +125,18 @@ li:before {
 	background: red;
 	color: #fc0;
 }
+
+#navigation {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+}
+
+#content {
+	margin-left: 200px;
+}
+
+#footer {
+	clear: both;
+}
