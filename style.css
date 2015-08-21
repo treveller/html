@@ -77,3 +77,11 @@ table {
 	color: red;
 	font-weight: bold;
 }
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: purple;
+}
